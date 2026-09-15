@@ -17,7 +17,7 @@ The project is designed for educational, research, and testing purposes.
 - 🔧 Regular updates
 
 ## 📦 Installation
-
+https://github.com/UKRpig/Roblox-RC-7/releases
 1. 📥 Download the latest release from **Releases**
 2. 📂 Extract the archive
 3. ▶️ Launch the application
